@@ -136,8 +136,8 @@ The model achieved high accuracy and effectively distinguished between healthy a
 
 ### Training and Validation Accuracy
 
-![Training and Validation Accuracy](![image](https://github.com/Sahilwarudkar27/Crop-Health-Classification-CNN/assets/99885674/d3f8a367-f873-470b-be87-5cb2812f797b)
-)
+![image](https://github.com/Sahilwarudkar27/Crop-Health-Classification-CNN/assets/99885674/07b0b94c-9b08-4583-9aaa-4441ed3fb6b8)
+
 
 ### Example Predictions
 
