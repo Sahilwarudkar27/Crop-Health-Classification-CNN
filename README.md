@@ -153,7 +153,8 @@ The following images show the model's predictions on the test dataset, with the 
 To use this project, follow these steps:
 1\. Access the colab notebook:
 
-   - Open the colab by clicking on the following link: Link to colab (https://colab.research.google.com/drive/1MRvDIDazo9HFg2vIwexWULqF3y9AMKEz#scrollTo=RuYXM4Y66_QS)
+   - Open the colab by clicking on the following link: Link to colab (
+https://colab.research.google.com/drive/1MRvDIDazo9HFg2vIwexWULqF3y9AMKEz?usp=sharing)
 
 2\. Run the notebook:
 
